@@ -8,3 +8,11 @@ var anxiety = 100
 
 var poor = true
 var rich = false
+
+var name = "Jack"
+var dog = "Bailey"
+var team = "Blues"
+
+console.log(name)
+console.log(dog)
+console.log(team)
